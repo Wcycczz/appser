@@ -10,7 +10,6 @@ import org.apache.ibatis.annotations.Mapper;
  */
 @Mapper
 public interface ManagementDAO {
-
 	/**
 	 * 保存用户
 	 * @param obj
